@@ -6,7 +6,7 @@ I wanted to see if I could make a UI for a chat app using flutter on a summer da
 
 Here is a demo of the project.
 
-<img src="screenshots/demo.gif" style="width: 250px; margin-right: 20px;">
+<img src="screenshots/demo.gif" width="250" style="width: 250px; margin-right: 20px;">
 
 ## Screenshots
 
