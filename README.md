@@ -1,18 +1,20 @@
-# chat_app
+# flutter-one-day-build
 
-A new Flutter project. 
+I wanted to see if I could make a UI for a chat app using flutter on a summer day break. 
 
 ## Demo
-![alt text](screenshots/demo.gif "Messages page")
 
-## Messages page
-![alt text](screenshots/messages_1.png "Messages page")
+Here is a demo of the project.
 
-![alt text](screenshots/messages_2.png "Messages page")
+<img src="screenshots/demo.gif" style="width: 250px; margin-right: 20px;">
 
-## Settings page
-![alt text](screenshots/settings.png "Settings page")
+## Screenshots
 
+Here are some screenshots of the app UI. I ran out of time and that's the reason why the profile section is a bit plain.
 
-## Profile page
-![alt text](screenshots/profile.png "Profile page")
+<img src="screenshots/messages_1.png" style="display: inline-block; width: 250px; margin-right: 20px; margin-top: 20px;">
+<img src="screenshots/messages_2.png" style="display: inline-block; width: 250px; margin-right: 20px; margin-top: 20px;">
+
+<img src="screenshots/settings.png" style="display: inline-block; width: 250px; margin-right: 20px; margin-top: 20px;">
+
+<img src="screenshots/profile.png" style="display: inline-block; width: 250px; margin-right: 20px; margin-top: 20px;">
