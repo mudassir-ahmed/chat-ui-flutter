@@ -1,6 +1,8 @@
-# flutter-one-day-build
+# Chat UI built with flutter
 
 I wanted to see if I could make a UI for a chat app using flutter on a summer day break. 
+
+<img src="screenshots/impact-thumbnail.png">
 
 ## Demo
 
